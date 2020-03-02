@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[toml]": {
+    "editor.defaultFormatter": "bodil.prettier-toml"
+  }
+}

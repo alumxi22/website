@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+cd "$(dirname ${BASH_SOURCE[0]})"/..
+set -euxo pipefail
+
+OUTPUT=`mktemp -d -t hugoTmpFolder_XXXXXXX`
+cleanup() {
+    rm -rf "$OUTPUT"
+}
+trap cleanup EXIT
+
+hugo --destination "$OUTPUT"
+
+git diff --no-index docs/ "$OUTPUT"

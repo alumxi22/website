@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xi Chapter Alumni Association</title>
+    <link>https://ggilmore.github.io/tep-alumni-website/posts/</link>
+    <description>Recent content in Posts on Xi Chapter Alumni Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ggilmore.github.io/tep-alumni-website/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xi Chapter Alumni Association</title>
+      <link>https://ggilmore.github.io/tep-alumni-website/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ggilmore.github.io/tep-alumni-website/posts/my-first-post/</guid>
+      <description>Welcome to the Alumni Association of Xi Chapter of Tau Epsilon Phi, Inc. We represent the alumni of Xi Chapter of Tau Epsilon Phi Fraternity. We are a member of the Association of Independent Living Groups at the Massachusetts Institute of Technology.
+TEP was founded at Columbia University in 1910 and from its founding days has been open to college men of any race or religion. We take pride in TEP’s egalitarian history, and we work to further that tradition by seeking to open membership in TEP Xi Chapter to all MIT students.</description>
+    </item>
+    
+  </channel>
+</rss>

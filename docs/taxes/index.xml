@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taxes on Xi Chapter Alumni Association</title>
+    <link>https://ggilmore.github.io/tep-alumni-website/taxes/</link>
+    <description>Recent content in Taxes on Xi Chapter Alumni Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ggilmore.github.io/tep-alumni-website/taxes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Form 990s</title>
+      <link>https://ggilmore.github.io/tep-alumni-website/taxes/form-990/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ggilmore.github.io/tep-alumni-website/taxes/form-990/</guid>
+      <description>According to IRS regulations not-for-profit organizations must make their tax records available for public inspection.
+🚨 NOTE: These links are inactive. The PDFs shouldn&amp;rsquo;t be stored in git. We need to find a stable storage solution.
+Organizational documents and public filings of Alumni Association of Xi Chapter of Tau Epsilon Phi, Inc.  Articles of Organization 2009 Form 990EZ 2010 Form 990EZ 2011 Form 990EZ 2012 Form 990EZ  Organizational documents and public filings of MIT Alumni of TEP Student Aid Foundation, Inc.</description>
+    </item>
+    
+  </channel>
+</rss>
