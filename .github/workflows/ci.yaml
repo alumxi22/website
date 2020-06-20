@@ -48,7 +48,7 @@ jobs:
         name: Check that dhall files are formatted
         run: scripts/dhall-format.sh
   dhallLint:
-    name: dhall-format
+    name: dhall-lint
     runs-on: ubuntu-latest
     steps:
       - uses: "actions/checkout@master"
@@ -63,7 +63,7 @@ jobs:
       - env:
           CHECK: 'true'
         name: Check that dhall files are linted properly
-        run: scripts/dhall-format.sh
+        run: scripts/dhall-lint.sh
   prettier:
     name: Prettier formatting
     runs-on: ubuntu-latest
