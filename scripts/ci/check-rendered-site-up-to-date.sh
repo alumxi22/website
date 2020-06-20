@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-cd "$(dirname ${BASH_SOURCE[0]})"/..
+cd "$(dirname ${BASH_SOURCE[0]})"/../..
 set -euxo pipefail
 
-OUTPUT=`mktemp -d -t hugoTmpFolder_XXXXXXX`
+OUTPUT=$(mktemp -d -t hugoTmpFolder_XXXXXXX)
 cleanup() {
-    rm -rf "$OUTPUT"
+  rm -rf "$OUTPUT"
 }
 trap cleanup EXIT
 
