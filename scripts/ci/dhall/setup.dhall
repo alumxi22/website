@@ -17,7 +17,7 @@ let ASDFSteps =
 
 let Checkout =
       GitHubActions.Step::{
-      , name = Some "checkout"
+      , name = None Text
       , `with` = Some (toMap { submodules = "recursive" })
       , uses = Some "actions/checkout@master"
       }

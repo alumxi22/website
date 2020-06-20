@@ -4,8 +4,7 @@ jobs:
     name: "Rendered 'docs/' is up to date"
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
@@ -20,8 +19,7 @@ jobs:
     name: Rendered CI pipeline is up to date
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
@@ -36,8 +34,7 @@ jobs:
     name: dhall-format
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
@@ -54,8 +51,7 @@ jobs:
     name: dhall-format
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
@@ -72,8 +68,7 @@ jobs:
     name: Prettier formatting
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
@@ -88,8 +83,7 @@ jobs:
     name: shellcheck
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
@@ -104,8 +98,7 @@ jobs:
     name: shfmt
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: "actions/checkout@master"
+      - uses: "actions/checkout@master"
         with:
           submodules: recursive
       - name: Install asdf
