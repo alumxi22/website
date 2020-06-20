@@ -29,7 +29,7 @@ jobs:
       - name: Install asdf tools versions
         run: scripts/ci/asdf-install.sh
       - name: Check that the CI pipeline definition is up-to-date with the dhall configuration
-        run: scripts/ci/check-rendered-site-up-to-date.sh
+        run: scripts/ci/check-rendered-pipeline-up-to-date.sh
   dhallFormat:
     name: dhall-format
     runs-on: ubuntu-latest
