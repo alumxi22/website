@@ -3,15 +3,15 @@ let GitHubActions = (./imports.dhall).GitHubActions
 let ASDFSteps =
       [ GitHubActions.Step::{
         , name = Some "Install asdf"
-        , uses = Some "asdf-vm/actions/setup@v1.0.0"
+        , run = Some "asdf-vm/actions/setup@v1.0.0"
         }
       , GitHubActions.Step::{
         , name = Some "Install asdf plugins"
-        , uses = Some "scripts/ci/asdf-add-plugins.sh"
+        , run = Some "scripts/ci/asdf-add-plugins.sh"
         }
       , GitHubActions.Step::{
         , name = Some "Install asdf tools versions"
-        , uses = Some "scripts/ci/asdf-install.sh"
+        , run = Some "scripts/ci/asdf-install.sh"
         }
       ]
 
