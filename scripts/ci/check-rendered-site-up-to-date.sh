@@ -3,12 +3,6 @@
 cd "$(dirname "${BASH_SOURCE[0]}")"/../..
 set -euxo pipefail
 
-OUTPUT=$(mktemp -d -t hugoTmpFolder_XXXXXXX)
-cleanup() {
-  rm -rf "$OUTPUT"
-}
-trap cleanup EXIT
+hugo
 
-hugo --destination "$OUTPUT"
-
-git diff --no-index docs/ "$OUTPUT"
+git diff --exit-code docs/
