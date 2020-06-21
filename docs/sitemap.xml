@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ggilmore.github.io/tep-alumni-website/</loc>
+  </url>
+  
+  <url>
     <loc>https://ggilmore.github.io/tep-alumni-website/about/</loc>
   </url>
   
@@ -36,10 +40,6 @@
   
   <url>
     <loc>https://ggilmore.github.io/tep-alumni-website/taxes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ggilmore.github.io/tep-alumni-website/</loc>
   </url>
   
 </urlset>

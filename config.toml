@@ -16,7 +16,7 @@ showLanguageSelector = false
 # set theme to full screen width
 fullWidthTheme = false
 # center theme with default width
-centerTheme = false
+centerTheme = true
 
 # set a custom favicon (default is a `themeColor` square)
 # favicon = "favicon.ico"
@@ -44,7 +44,7 @@ logoHomeLink = "https://ggilmore.github.io/tep-alumni-website"
 
 [[languages.en.menu.main]]
 identifier = "about"
-name = "About"
+name = "About (National)"
 url = "/about"
 
 [[languages.en.menu.main]]
