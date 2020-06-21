@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>https://ggilmore.github.io/tep-alumni-website/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://ggilmore.github.io/tep-alumni-website/categories/</loc>
   </url>
   
@@ -27,10 +31,6 @@
   </url>
   
   <url>
-    <loc>https://ggilmore.github.io/tep-alumni-website/posts/</loc>
-  </url>
-  
-  <url>
     <loc>https://ggilmore.github.io/tep-alumni-website/tags/</loc>
   </url>
   
@@ -40,10 +40,6 @@
   
   <url>
     <loc>https://ggilmore.github.io/tep-alumni-website/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ggilmore.github.io/tep-alumni-website/posts/my-first-post/</loc>
   </url>
   
 </urlset>
