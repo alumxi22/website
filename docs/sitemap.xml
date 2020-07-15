@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ggilmore.github.io/tep-alumni-website/</loc>
+    <loc>https://ggilmore.github.io/tep-alumni-website/giving/capital/</loc>
   </url>
   
   <url>
-    <loc>https://ggilmore.github.io/tep-alumni-website/about/</loc>
+    <loc>https://ggilmore.github.io/tep-alumni-website/</loc>
   </url>
   
   <url>
@@ -36,6 +36,10 @@
   
   <url>
     <loc>https://ggilmore.github.io/tep-alumni-website/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ggilmore.github.io/tep-alumni-website/about/</loc>
   </url>
   
   <url>

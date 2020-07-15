@@ -10,7 +10,7 @@ contentTypeName = "posts"
 # ["orange", "blue", "red", "green", "pink"]
 themeColor = "pink"
 # if you set this to 0, only submenu trigger will be visible
-showMenuItems = 2
+showMenuItems = 5
 # show selector to switch language
 showLanguageSelector = false
 # set theme to full screen width
@@ -44,15 +44,19 @@ logoHomeLink = "https://ggilmore.github.io/tep-alumni-website"
 
 [[languages.en.menu.main]]
 identifier = "about"
-name = "About (National)"
+name = "TEP National"
 url = "/about"
 
 [[languages.en.menu.main]]
-identifier = "giving-alumxi"
-name = "Donate to AlumXi"
-url = "/giving/alumxi"
+identifier = "capital-campaign"
+name = "2022 Capital Campaign"
+url = "/giving/capital"
 
 [[languages.en.menu.main]]
-identifier = "giving-mit"
-name = "Donate to MIT"
-url = "/giving/mit"
+identifier = "giving-alumxi"
+name = "Donate!"
+url = "/giving/alumxi"
+#[[languages.en.menu.main]]
+#identifier = "giving-mit"
+#name = "Donate to MIT"
+#url = "/giving/mit"
