@@ -9,7 +9,7 @@
   "author": "Geoffrey Gilmore <ggilmore@mit.edu>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.5",
     "prettier-plugin-toml": "^0.3.1"
   }
 }

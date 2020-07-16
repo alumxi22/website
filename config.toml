@@ -56,7 +56,3 @@ url = "/giving/capital"
 identifier = "giving-alumxi"
 name = "Donate!"
 url = "/giving/alumxi"
-#[[languages.en.menu.main]]
-#identifier = "giving-mit"
-#name = "Donate to MIT"
-#url = "/giving/mit"
