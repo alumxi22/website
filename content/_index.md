@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-{{< figure src="/tep-alumni-website/img/xiohazard.png" position="center" >}}
+{{< figure src="/img/xiohazard.png" position="center" >}}
 
 The Alumni Association of Xi Chapter of Tau Epsilon Phi, Inc., or
 AlumXi, represents the alumni of Xi Chapter of Tau Epsilon Phi
