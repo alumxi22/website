@@ -1,4 +1,4 @@
-baseurl = "https://ggilmore.github.io/tep-alumni-website"
+baseurl = "https://www.alumxi.com"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 2

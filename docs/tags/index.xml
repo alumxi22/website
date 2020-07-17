@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Xi Chapter Alumni Association</title>
-    <link>https://ggilmore.github.io/tep-alumni-website/tags/</link>
+    <link>https://www.alumxi.com/tags/</link>
     <description>Recent content in Tags on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ggilmore.github.io/tep-alumni-website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.alumxi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

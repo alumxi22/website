@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Xi Chapter Alumni Association</title>
-    <link>https://ggilmore.github.io/tep-alumni-website/</link>
+    <link>https://www.alumxi.com/</link>
     <description>Recent content in About on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ggilmore.github.io/tep-alumni-website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.alumxi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2022 Capital Campaign</title>
-      <link>https://ggilmore.github.io/tep-alumni-website/giving/capital/</link>
+      <link>https://www.alumxi.com/giving/capital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ggilmore.github.io/tep-alumni-website/giving/capital/</guid>
+      <guid>https://www.alumxi.com/giving/capital/</guid>
       <description>We are announcing our first 22nd annual capital campaign. Donate 253 Commonwealth Ave is the hub of the hub of the universe. Whom among us does not recall the house and all that it meant and still means to us? Living at the house was the foundation around which our MIT experience was built, and having lived there is still a large part of our lives. As we know, college friendships last a very long time.</description>
     </item>
     
     <item>
       <title>Donate to Alumxi</title>
-      <link>https://ggilmore.github.io/tep-alumni-website/giving/alumxi/</link>
+      <link>https://www.alumxi.com/giving/alumxi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ggilmore.github.io/tep-alumni-website/giving/alumxi/</guid>
+      <guid>https://www.alumxi.com/giving/alumxi/</guid>
       <description>Note that AlumXi is a 501(c)7 not-for-profit and contributions are not tax-deductible. If that is a significant concern, you can donate to certain MIT funds instead.
 How to Make a One-Time Donation via PayPal You can make a donation via PayPal using the “Donate” button below. You get to pick the amount of your donation. May we suggest $22.22 or $222.22?
  Monthly Donations via PayPal You can also make a make a recurring monthly donation via PayPal using the “Subscribe” button below.</description>
@@ -32,10 +32,10 @@ How to Make a One-Time Donation via PayPal You can make a donation via PayPal us
     
     <item>
       <title>Form 990s</title>
-      <link>https://ggilmore.github.io/tep-alumni-website/taxes/form-990/</link>
+      <link>https://www.alumxi.com/taxes/form-990/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ggilmore.github.io/tep-alumni-website/taxes/form-990/</guid>
+      <guid>https://www.alumxi.com/taxes/form-990/</guid>
       <description>According to IRS regulations not-for-profit organizations must make their tax records available for public inspection.
 🚨 NOTE: These links are inactive. The PDFs shouldn&amp;rsquo;t be stored in git. We need to find a stable storage solution.
 Organizational documents and public filings of Alumni Association of Xi Chapter of Tau Epsilon Phi, Inc.  Articles of Organization 2009 Form 990EZ 2010 Form 990EZ 2011 Form 990EZ 2012 Form 990EZ  Organizational documents and public filings of MIT Alumni of TEP Student Aid Foundation, Inc.</description>
@@ -43,10 +43,10 @@ Organizational documents and public filings of Alumni Association of Xi Chapter 
     
     <item>
       <title>Giving to MIT</title>
-      <link>https://ggilmore.github.io/tep-alumni-website/giving/mit/</link>
+      <link>https://www.alumxi.com/giving/mit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ggilmore.github.io/tep-alumni-website/giving/mit/</guid>
+      <guid>https://www.alumxi.com/giving/mit/</guid>
       <description>Giving money to MIT helps maintain MIT’s educational excellence and assists the current generation of MIT students to cope with eye-popping cost of an MIT education.
 There are two funds of particular interest to MIT alumni of TEP:
 The FredFund Fred Fenning was a beloved member of TEP who died after his airplane experienced a mechanical failure. Fred donated his time generously to the house after graduating and his technical abilities and warm-hearted nature were an inspiration to generations of TEPs.</description>
@@ -54,10 +54,10 @@ The FredFund Fred Fenning was a beloved member of TEP who died after his airplan
     
     <item>
       <title>Tau Epsilon Phi</title>
-      <link>https://ggilmore.github.io/tep-alumni-website/about/</link>
+      <link>https://www.alumxi.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ggilmore.github.io/tep-alumni-website/about/</guid>
+      <guid>https://www.alumxi.com/about/</guid>
       <description>TEP was founded at Columbia University in 1910 and from its founding days has been open to college men of any race or religion. We take pride in TEP’s egalitarian history, and we work to further that tradition by seeking to open membership in TEP Xi Chapter to all MIT students.
 The Creed of Tau Epsilon Phi TO LIVE in the light of Friendship—to judge our fellows not by their rank not wealth but by their worth as men—to hold eternally before us the memory of those whom we have loved and lost—to hold forth in the solidarity of our brotherhood the nobility of action which will—make for the preservation of our highest and worthiest aim—and thus be true to the ideal of friendship—</description>
     </item>

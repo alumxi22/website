@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thank you! on Xi Chapter Alumni Association</title>
-    <link>https://ggilmore.github.io/tep-alumni-website/thank-you/</link>
+    <link>https://www.alumxi.com/thank-you/</link>
     <description>Recent content in Thank you! on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ggilmore.github.io/tep-alumni-website/thank-you/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.alumxi.com/thank-you/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
