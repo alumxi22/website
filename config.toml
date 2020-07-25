@@ -37,8 +37,7 @@ readOtherPosts = "Read other posts"
 
 [languages.en.params.logo]
 logoText = "AlumXi"
-# logoHomeLink = "/"
-logoHomeLink = "https://ggilmore.github.io/tep-alumni-website"
+logoHomeLink = "/"
 
 [languages.en.menu]
 
