@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memberships on Xi Chapter Alumni Association</title>
+    <link>https://www.alumxi.com/membership/</link>
+    <description>Recent content in Memberships on Xi Chapter Alumni Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.alumxi.com/membership/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Membership in AlumXi</title>
+      <link>https://www.alumxi.com/membership/alumxi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.alumxi.com/membership/alumxi/</guid>
+      <description>All alumni of TEP Xi Chapter or Xi Fellowship are elligible to become members of AlumXi, unless they have been informed otherwise. We also have honorary membership for certain community members who lived in the house but never formally joined, such as former RAs.
+Joining AlumXi To join AlumXi, all you have to do is be a Xi alum in good standing (see above) and pay your annual $22.22 dues.</description>
+    </item>
+    
+  </channel>
+</rss>

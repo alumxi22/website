@@ -2,7 +2,7 @@
 title: "About Tau Epsilon Phi (National)"
 ---
 
-TEP was founded at Columbia University in 1910 and from its founding days has been open to college men of any race or religion. We take pride in TEP’s egalitarian history, and we work to further that tradition by seeking to open membership in TEP Xi Chapter to all MIT students.
+TEP was founded at Columbia University in 1910 and from its founding days has been open to college men of any race or religion. We take pride in TEP’s egalitarian history, and we work to further that tradition by seeking to open membership in TEP Xi Chapter to all MIT students, regardless of gender identity.
 
 ## The Creed of Tau Epsilon Phi
 

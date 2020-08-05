@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.alumxi.com/giving/capital/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.alumxi.com/</loc>
   </url>
   
@@ -15,11 +11,19 @@
   </url>
   
   <url>
+    <loc>https://www.alumxi.com/giving/capital/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.alumxi.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://www.alumxi.com/giving/alumxi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.alumxi.com/events/</loc>
   </url>
   
   <url>
@@ -32,6 +36,14 @@
   
   <url>
     <loc>https://www.alumxi.com/giving/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.alumxi.com/membership/alumxi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.alumxi.com/membership/</loc>
   </url>
   
   <url>
@@ -48,6 +60,10 @@
   
   <url>
     <loc>https://www.alumxi.com/thank-you/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.alumxi.com/events/current/</loc>
   </url>
   
 </urlset>

@@ -42,16 +42,28 @@ logoHomeLink = "/"
 [languages.en.menu]
 
 [[languages.en.menu.main]]
-identifier = "about"
-name = "TEP National"
+identifier = "membership"
+name="Membership"
+url = "/membership/alumxi"
+
+[[languages.en.menu.main]]
+identifier = "giving-alumxi"
+name= "Donate!"
+url = "/giving/alumxi"
+
+
+[[languages.en.menu.main]]
+identifier = "aboutNational"
+name="TEP National"
 url = "/about"
 
 [[languages.en.menu.main]]
 identifier = "capital-campaign"
-name = "2022 Capital Campaign"
+name = "Capital Campaign"
 url = "/giving/capital"
 
 [[languages.en.menu.main]]
-identifier = "giving-alumxi"
-name = "Donate!"
-url = "/giving/alumxi"
+identifier = "events"
+name = "Events"
+url = "/events/current"
+

@@ -11,12 +11,13 @@
     
     
     <item>
-      <title>2022 Capital Campaign</title>
+      <title>Capital Campaign</title>
       <link>https://www.alumxi.com/giving/capital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.alumxi.com/giving/capital/</guid>
-      <description>We are announcing our first 22nd annual capital campaign. Donate 253 Commonwealth Ave is the hub of the hub of the universe. Whom among us does not recall the house and all that it meant and still means to us? Living at the house was the foundation around which our MIT experience was built, and having lived there is still a large part of our lives. As we know, college friendships last a very long time.</description>
+      <description>We are announcing our first 22nd annual capital campaign. Donate  253 Commonwealth Ave is the hub of the hub of the universe. Living at the house was the foundation around which our MIT experience was built, and having lived there is still a large part of our lives. As we know, college friendships last a very long time.
+Much is changing on campus due to the Coronavirus, and the house will be effectively shut down for over a year.</description>
     </item>
     
     <item>
@@ -26,8 +27,8 @@
       
       <guid>https://www.alumxi.com/giving/alumxi/</guid>
       <description>Note that AlumXi is a 501(c)7 not-for-profit and contributions are not tax-deductible. If that is a significant concern, you can donate to certain MIT funds instead.
-How to Make a One-Time Donation via PayPal You can make a donation via PayPal using the “Donate” button below. You get to pick the amount of your donation. May we suggest $22.22 or $222.22?
- Monthly Donations via PayPal You can also make a make a recurring monthly donation via PayPal using the “Subscribe” button below.</description>
+How to Donate to the Capital Campaign We are running our first 22nd annual capital campaign. You can donate using the button below, or see here for other methods.
+Donate  How to Make a One-Time General Donation If you prefer to make a general donation instead of contributing to the capital campaign, You can do so via PayPal using the “Donate” button below.</description>
     </item>
     
     <item>
@@ -53,6 +54,16 @@ The FredFund Fred Fenning was a beloved member of TEP who died after his airplan
     </item>
     
     <item>
+      <title>Membership in AlumXi</title>
+      <link>https://www.alumxi.com/membership/alumxi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.alumxi.com/membership/alumxi/</guid>
+      <description>All alumni of TEP Xi Chapter or Xi Fellowship are elligible to become members of AlumXi, unless they have been informed otherwise. We also have honorary membership for certain community members who lived in the house but never formally joined, such as former RAs.
+Joining AlumXi To join AlumXi, all you have to do is be a Xi alum in good standing (see above) and pay your annual $22.22 dues.</description>
+    </item>
+    
+    <item>
       <title>Tau Epsilon Phi</title>
       <link>https://www.alumxi.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,6 +71,15 @@ The FredFund Fred Fenning was a beloved member of TEP who died after his airplan
       <guid>https://www.alumxi.com/about/</guid>
       <description>TEP was founded at Columbia University in 1910 and from its founding days has been open to college men of any race or religion. We take pride in TEP’s egalitarian history, and we work to further that tradition by seeking to open membership in TEP Xi Chapter to all MIT students.
 The Creed of Tau Epsilon Phi TO LIVE in the light of Friendship—to judge our fellows not by their rank not wealth but by their worth as men—to hold eternally before us the memory of those whom we have loved and lost—to hold forth in the solidarity of our brotherhood the nobility of action which will—make for the preservation of our highest and worthiest aim—and thus be true to the ideal of friendship—</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Events</title>
+      <link>https://www.alumxi.com/events/current/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.alumxi.com/events/current/</guid>
+      <description>The CROCK Coming soon to a virtual venue near you. Date: TBD, some weekend in September.</description>
     </item>
     
   </channel>

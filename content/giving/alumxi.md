@@ -5,27 +5,40 @@ title: "Donate to Alumxi"
 Note that AlumXi is a 501(c)7 not-for-profit and contributions are
 **not** tax-deductible. If that is a significant concern, you can [donate to certain MIT funds](#giving-to-mit) instead.
 
-## How to Make a One-Time Donation via PayPal
+## How to Donate to the Capital Campaign
 
-You can make a donation via [PayPal](https://www.paypal.com/) using
+We are running our first 22nd annual [capital
+campaign](../capital). You can donate using the
+button below, or see [here](../capital/#faq) for other methods. 
+
+{{< rawhtml >}}
+<div style="text-align:center">
+<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
+</div>
+{{< /rawhtml >}}
+
+
+## How to Make a One-Time General Donation 
+
+If you prefer to make a general donation instead of contributing to the capital campaign, You can do so via [PayPal](https://www.paypal.com/) using
 the “Donate” button below. You get to pick the amount of your
 donation. May we suggest $22.22 or $222.22?
 
 {{< rawhtml >}}
-
+<div style="text-align:center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input name="cmd" type="hidden" value="_s-xclick" class="center">
   <input name="hosted_button_id" type="hidden" value="F95DZ2BTSKYKQ"><br>
   <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"><br>
   <img style="display: none !important;" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" hidden="" height="1" border="0">
 </form>
-
+</div>
 {{< /rawhtml >}}
 
 ## Monthly Donations via PayPal
 
 You can also make a make a recurring monthly donation via [PayPal](https://www.paypal.com/) using the “Subscribe” button below. At the moment you can only pick from some pre-selected options. Eit!
 {{< rawhtml >}}
-
+<div style="text-align:center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="center" ><input name="cmd" type="hidden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="F85FTN5BHGL4J">&nbsp;<p></p>
 <table>
@@ -43,7 +56,7 @@ You can also make a make a recurring monthly donation via [PayPal](https://www.p
 <img style="display: none !important;" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" hidden="" height="1" border="0"></p>
 <div></div></form>
 </form>
-
+</div>
 {{< /rawhtml >}}
 
 Note this payment will **continue until you stop it**. (You can stop it from the **My preapproved payments** section on the [PayPal web site](https://www.paypal.com/), or you can write to us for help.)
@@ -68,8 +81,13 @@ Thank very much for your support!
 # Dues
 
 Annual dues for the Alumni Association of Xi Chapter of Tau Epsilon
-Phi Inc are `$5`, and can be paid by PayPal or check. Any amount above
-`$5` will be considered a donation.
+Phi Inc are $22.22 for 2021 onwards. They can be paid using the button below.
+
+{{< rawhtml >}}
+<div style="text-align:center">
+<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/annual-dues/xi-fellowship'>Pay dues ($22.22)</a>
+</div>
+{{< /rawhtml >}}
 
 # Donating to Xi Chapter Directly
 
