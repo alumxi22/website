@@ -17,5 +17,6 @@ This project relies on [Hugo](https://gohugo.io/), [Yarn](https://classic.yarnpk
 1. Run `asdf install` to install all the tools specified in [.tool-versions](./tool-versions)
 1. Run `hugo server -D` to locally serve the site and automatically reload on file changes
 1. Run `hugo` to render the site to the `docs/` folder
+1. After pushing, check that the scrips succeed by looking here: https://github.com/alumxi22/website/actions, and fix any issues that come up.
 
 See https://gohugo.io/documentation/ for more information about Hugo.
