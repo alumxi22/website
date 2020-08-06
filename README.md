@@ -7,7 +7,7 @@ This project relies on [Hugo](https://gohugo.io/), [Yarn](https://classic.yarnpk
 ## Basic Dev Instructions
 
 1. Run `git submodule update --init --recursive` if you haven't already done so
-1. Install [asdf](https://github.com/asdf-vm/asdf)
+1. Install [asdf](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) (make sure to follow the "Add to your Shell" instructions in the installation guide)
 1. Install the following [asdf](https://github.com/asdf-vm/asdf) plugins:
 
    - [asdf-hugo](https://github.com/beardix/asdf-hugo)
