@@ -10,14 +10,14 @@ the house but never formally joined, such as former RAs.
 ## Joining AlumXi
 
 To join AlumXi, all you have to do is be a Xi alum in good standing (see
-above) and [pay your annual $22.22 dues](../giving/alumxi/#dues).
+above) and [pay your annual \$22.22 dues](../giving/alumxi/#dues).
 
 {{< rawhtml >}}
+
 <div style="text-align:center">
 <a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/annual-dues/xi-fellowship'>Pay dues ($22.22)</a>
 </div>
 {{< /rawhtml >}}
-
 
 ## Structure
 
@@ -28,7 +28,7 @@ holds a board-only internal election for officer positions. More
 details are in our bylaws.
 
 Elections are announced via email. Contact rawhide@alumxi.com if you
-want to check that your address on file is up-to-date.  Every election
+want to check that your address on file is up-to-date. Every election
 cycle we solicit nominations for board members. All members in good
 standing are welcome to run!
 
@@ -47,7 +47,8 @@ you want to join this list to see the minutes, send a request to
 president@alumxi.com.
 
 # Volunteering
-There are many opportunities to volunteer! 
+
+There are many opportunities to volunteer!
 
 ## Events
 

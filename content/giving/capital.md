@@ -5,31 +5,32 @@ title: "Capital Campaign"
 # We are announcing our first 22nd annual capital campaign.
 
 {{< rawhtml >}}
+
 <div style="text-align:center">
 <a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
 </div>
 {{< /rawhtml >}}
 
-253 Commonwealth Ave is the hub of the hub of the universe.  Living at
+253 Commonwealth Ave is the hub of the hub of the universe. Living at
 the house was the foundation around which our MIT experience was
-built, and having lived there is still a large part of our lives.  As
+built, and having lived there is still a large part of our lives. As
 we know, college friendships last a very long time.
 
 Much is changing on campus due to the Coronavirus, and the house will
 be effectively shut down for over a year. No summer renters or
 undergraduates are allowed in the house through at least the rest of
-2020.  But we are lucky, between the cash reserve we had built up and
-some support from MIT the house will survive. But will we thrive?
+
+2020. But we are lucky, between the cash reserve we had built up and
+      some support from MIT the house will survive. But will we thrive?
 
 Besides the fact that we will be draining our reserves, this has shown
 us that bad things can happen(™). Things that can put the existence of
-the house at risk.  Right now, some of the other houses at MIT are in
-danger.  They can’t pay their bills or their property taxes, and could
-even lose their houses.  We need an endowment in order to secure the
+the house at risk. Right now, some of the other houses at MIT are in
+danger. They can’t pay their bills or their property taxes, and could
+even lose their houses. We need an endowment in order to secure the
 house and ensure that we can continue to provide future students with
 the same great experience we were able to have. So let’s fix that
 together.
-
 
 ## \$1.22M dollar Capital Campaign
 
@@ -38,23 +39,23 @@ together.
 #### Our Goal
 
 Our goal is to create an endowment that can pay the property taxes on
-253 Commonwealth from the interest.  After this goal is met, we would
+253 Commonwealth from the interest. After this goal is met, we would
 like to continue to grow this endowment to cover all the remaining
 fixed costs associated with the house (insurance, sufficient heat to
-make sure pipes don’t burst, etc).  Besides ensuring our survival,
+make sure pipes don’t burst, etc). Besides ensuring our survival,
 this would also let us fund repairs and improvements from operating
 cash flows without having to further mortgage the property just to
 keep it standing.
 
 We want to raise $1.22 million dollars over 10 years, with an initial
 milestone of $222,222 by Graduation Day 2022, and ongoing donations of
-$69,000/year thereafter. These funds would be put into a highly rated
+\$69,000/year thereafter. These funds would be put into a highly rated
 bond fund or other investment, and the interest payments would be
 earmarked for our fixed costs.
 
 While this is a large sum, we _can_ get there -- if If every alum
-donates just one more housebill ($2222+), we would exceed our final
-goal.  We know that not everybody will be able to make this
+donates just one more housebill (\$2222+), we would exceed our final
+goal. We know that not everybody will be able to make this
 contribution, but anything helps. And if you can provide more, please
 do!
 
@@ -147,11 +148,10 @@ SOMERVILLE, MA 02144
 
 Or, you can email treasurer@alumxi.com to arrange a wire transfer.
 
-**What happened in the Spring with the lockdown?**  MIT asked all undergraduates to leave MIT housing by March 17th, and
+**What happened in the Spring with the lockdown?** MIT asked all undergraduates to leave MIT housing by March 17th, and
 the students who were granted exceptions were required to move to
 dorms. MIT also asked all the FSILGs to remain empty for the summer
 (so no summer renters).
-
 
 **What is happening in the fall? Are the current active members going to live there again?** MIT asked all undergraduates to leave campus on March 17th. This
 included emptying our the FSILGs. MIT also asked all the FSILGs to
@@ -161,4 +161,4 @@ remain empty for the summer (so no summer renters.)
 
 **What happens with Rush 2020? 2021?** Our TEPFORCE 2021 committee is exploring this.
 
-**Will donors be recognized?**  Yes! More info coming soon...
+**Will donors be recognized?** Yes! More info coming soon...

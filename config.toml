@@ -43,18 +43,17 @@ logoHomeLink = "/"
 
 [[languages.en.menu.main]]
 identifier = "membership"
-name="Membership"
+name = "Membership"
 url = "/membership/alumxi"
 
 [[languages.en.menu.main]]
 identifier = "giving-alumxi"
-name= "Donate!"
+name = "Donate!"
 url = "/giving/alumxi"
-
 
 [[languages.en.menu.main]]
 identifier = "aboutNational"
-name="TEP National"
+name = "TEP National"
 url = "/about"
 
 [[languages.en.menu.main]]
@@ -66,4 +65,3 @@ url = "/giving/capital"
 identifier = "events"
 name = "Events"
 url = "/events/current"
-
