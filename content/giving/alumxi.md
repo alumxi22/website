@@ -9,22 +9,23 @@ Note that AlumXi is a 501(c)7 not-for-profit and contributions are
 
 We are running our first 22nd annual [capital
 campaign](../capital). You can donate using the
-button below, or see [here](../capital/#faq) for other methods. 
+button below, or see [here](../capital/#faq) for other methods.
 
 {{< rawhtml >}}
+
 <div style="text-align:center">
 <a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
 </div>
 {{< /rawhtml >}}
 
-
-## How to Make a One-Time General Donation 
+## How to Make a One-Time General Donation
 
 If you prefer to make a general donation instead of contributing to the capital campaign, You can do so via [PayPal](https://www.paypal.com/) using
 the “Donate” button below. You get to pick the amount of your
 donation. May we suggest $22.22 or $222.22?
 
 {{< rawhtml >}}
+
 <div style="text-align:center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input name="cmd" type="hidden" value="_s-xclick" class="center">
   <input name="hosted_button_id" type="hidden" value="F95DZ2BTSKYKQ"><br>
@@ -38,6 +39,7 @@ donation. May we suggest $22.22 or $222.22?
 
 You can also make a make a recurring monthly donation via [PayPal](https://www.paypal.com/) using the “Subscribe” button below. At the moment you can only pick from some pre-selected options. Eit!
 {{< rawhtml >}}
+
 <div style="text-align:center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="center" ><input name="cmd" type="hidden" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="F85FTN5BHGL4J">&nbsp;<p></p>
@@ -81,9 +83,10 @@ Thank very much for your support!
 # Dues
 
 Annual dues for the Alumni Association of Xi Chapter of Tau Epsilon
-Phi Inc are $22.22 for 2021 onwards. They can be paid using the button below.
+Phi Inc are \$22.22 for 2021 onwards. They can be paid using the button below.
 
 {{< rawhtml >}}
+
 <div style="text-align:center">
 <a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/annual-dues/xi-fellowship'>Pay dues ($22.22)</a>
 </div>
