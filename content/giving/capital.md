@@ -16,21 +16,28 @@ the house was the foundation around which our MIT experience was
 built, and having lived there is still a large part of our lives. As
 we know, college friendships last a very long time.
 
+
+
 Much is changing on campus due to the Coronavirus, and the house will
 be effectively shut down for over a year. No summer renters or
 undergraduates are allowed in the house through at least the rest of
-
 2020. But we are lucky, between the cash reserve we had built up and
-      some support from MIT the house will survive. But will we thrive?
+some support from MIT the house will survive to see 2022. We need your help to _thrive_ though.
+
+{{< rawhtml >}}
+<div style="text-align:center">
+<img  src="/img/house.jpg" style="display: inline-block; vertical-align:middle" width="444">
+</div>
+{{< /rawhtml >}}
+
 
 Besides the fact that we will be draining our reserves, this has shown
 us that bad things can happen(™). Things that can put the existence of
 the house at risk. Right now, some of the other houses at MIT are in
-danger. They can’t pay their bills or their property taxes, and could
-even lose their houses. We need an endowment in order to secure the
-house and ensure that we can continue to provide future students with
-the same great experience we were able to have. So let’s fix that
-together.
+danger and could even lose their houses. We need an endowment in order
+to secure the house in perpetuity. It will ensure that we can continue
+to provide future students with the same great experience we all had.
+So let’s tackle this together.
 
 ## \$1.22M dollar Capital Campaign
 
@@ -71,7 +78,7 @@ would like to add to our matching fund, please get in touch!)
 <a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
 {{< /rawhtml >}}
 
-Every donor will be recognized for their donation on a plaque in the house. You can put whatever message you want, your mundane thoughts engraved for eternity! These names will live forever alongside the wainscotting. In addition, certain large gifts will be recognized with bannister posts, as well as the privilege to name specific objects (grease trap! toilets!) or locations in the house.
+Every donor will be recognized for their donation on a plaque in the house. You can put whatever message you want, your mundane thoughts engraved for eternity! These names will live forever alongside the wainscotting. In addition, certain large gifts will be recognized with banister posts, as well as the privilege to name specific objects (grease trap! toilets!) or locations in the house.
 
 #### Allocation of Funds
 
@@ -125,7 +132,7 @@ You can help in a plethora of ways:
 No. Unfortunately we are not a 501(c)3, so donations are not tax deductible. It has something to do with the IRS thinking our membership is exclusive (if you can believe that!)
 
 **How will we financially manage the donated funds?**
-We will put the endowment donations into conservative investments such as highly rated bond funds. If reasonable we will attempt to have this managed passively by the board in order to avoid fees associated with a management firm but will eb looking into low cost options for non-profits.
+We will put the endowment donations into conservative investments such as highly rated bond funds. If reasonable we will attempt to have this managed passively by the board in order to avoid fees associated with a management firm but will be looking into low cost options for non-profits.
 
 **What do we anticipate the Xi fixed costs being over time?**
 The fixed costs of keeping the house are ~$100,000 annually. This includes property taxes of ~$40,000, paying off the current mortgage, and paying for a minimum level of utilities and other services.
