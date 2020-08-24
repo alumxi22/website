@@ -21,7 +21,8 @@ be effectively shut down for over a year. No summer renters or
 undergraduates are allowed in the house through at least the rest of
 
 2020. But we are lucky, between the cash reserve we had built up and
-      some support from MIT the house will survive to see 2022. We need your help to _thrive_ though.
+      some support from MIT the house will survive to see 2022. We need your
+      help to _thrive_ though.
 
 {{< rawhtml >}}
 
