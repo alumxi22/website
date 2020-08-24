@@ -16,13 +16,7 @@ the house was the foundation around which our MIT experience was
 built, and having lived there is still a large part of our lives. As
 we know, college friendships last a very long time.
 
-Much is changing on campus due to the Coronavirus, and the house will
-be effectively shut down for over a year. No summer renters or
-undergraduates are allowed in the house through at least the rest of
-
-2020. But we are lucky, between the cash reserve we had built up and
-      some support from MIT the house will survive to see 2022. We need your
-      help to _thrive_ though.
+Much is changing on campus due to the Coronavirus, and the house will be effectively shut down for over a year. No summer renters or undergraduates are allowed in the house through at least the rest of 2020. But we are lucky, between the cash reserve we had built up and some support from MIT the house will survive to see 2022. We need your help to _thrive_ though.
 
 {{< rawhtml >}}
 
