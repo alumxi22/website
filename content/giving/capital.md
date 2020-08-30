@@ -54,17 +54,18 @@ milestone of $222,222 by Graduation Day 2022, and ongoing donations of
 bond fund or other investment, and the interest payments would be
 earmarked for our fixed costs.
 
+{{< rawhtml >}}
+
+<div style="text-align:center">
+<img  src="/img/leits.jpg" style="display: inline-block; vertical-align:middle" width="444">
+</div>
+{{< /rawhtml >}}
+
 While this is a large sum, we _can_ get there -- if If every alum
 donates just one more housebill (\$2222+), we would exceed our final
 goal. We know that not everybody will be able to make this
 contribution, but anything helps. And if you can provide more, please
 do!
-
-#### Honig’s Heroes Matching Fund
-
-We have a matching fund that will match dollar for dollar the first
-\$100,000 raised, and we expect this matching fund to grow. (If you
-would like to add to our matching fund, please get in touch!)
 
 # Make a Donation
 
@@ -73,6 +74,12 @@ would like to add to our matching fund, please get in touch!)
 {{< /rawhtml >}}
 
 Every donor will be recognized for their donation on a plaque in the house. You can put whatever message you want, your mundane thoughts engraved for eternity! These names will live forever alongside the wainscotting. In addition, certain large gifts will be recognized with banister posts, as well as the privilege to name specific objects (grease trap! toilets!) or locations in the house.
+
+#### Honig’s Heroes Matching Fund
+
+We have a matching fund that will match dollar for dollar the first
+\$100,000 raised, and we expect this matching fund to grow. (If you
+would like to add to our matching fund, please get in touch!)
 
 #### Allocation of Funds
 
@@ -119,6 +126,13 @@ You can help in a plethora of ways:
 **You can also help with the house when the time comes to re-awaken the sleeping beast.** There will be alumni workweek days, you can help with rush, and you can donate again and again! See how to [volunteer](../../membership/alumxi/#volunteering)!
 
 **Finally, you can help keep the community active and alive.** Join us at one of the many upcoming [tEply events](../../events/current)!
+
+{{< rawhtml >}}
+
+<div style="text-align:center">
+<img  src="/img/crowd.jpg" style="display: inline-block; vertical-align:middle" width="444">
+</div>
+{{< /rawhtml >}}
 
 # FAQ
 
