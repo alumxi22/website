@@ -1,4 +1,4 @@
-render:  render-hugo render-ci
+build: render-hugo render-ci
 
 render-hugo: format lint
     hugo
