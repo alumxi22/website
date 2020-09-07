@@ -124,3 +124,21 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node
+
+# emacs ignores
+*.aux
+*.out
+*.log
+*.pyc
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.DS_Store
+*.o
+*.a
+*.lst
