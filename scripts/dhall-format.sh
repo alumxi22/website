@@ -5,7 +5,7 @@ set -eu pipefail
 
 DHALL_FILES=()
 
-mapfile -t DHALL_FILES < <(find . -name '*dhall')
+mapfile -t DHALL_FILES < <(fd --extension dhall)
 
 function format() {
   local file="$1"
