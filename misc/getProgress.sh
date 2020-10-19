@@ -6,6 +6,6 @@ raised=$(cat xi-endowment | grep -i "donation_raised" | sed -e "s/__cr.set('page
 
 goal=$(cat xi-endowment | grep -i "page_specific.goal" | sed -e "s/__cr.set('page_specific.goal', //" | sed -e "s/).*$//" | xargs)
 
-fraction=$(awk -v raised=$raised -v goal=$goal 'BEGIN { printf "%.1f\n", 100 * raised / goal }')
+fraction=$(awk -v raised="$raised" -v goal="$goal" 'BEGIN { printf "%.1f\n", 100 * raised / goal }')
 
 echo "$fraction% raised towards goal"
