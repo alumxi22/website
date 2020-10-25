@@ -6,7 +6,7 @@ title: "Upcoming Events"
 
 The crock is going virtual! Join us for the first online edition of our beloved annual comic rock opera on Thursday, October 29, 2020 at 9:22 PM ET. It'll either be so good or so bad that you'll laugh and you'll cry.
 
-+NOTE: Event link was emailed out to drool on 10/23. We will not be posting it online, to avoid unwanted Zoom gremlins. Send us a message if you can't find it!
+NOTE: Event link was emailed out to drool on 10/23. We will not be posting it online, to avoid unwanted Zoom gremlins. Send us a message if you can't find it!
 
 # Past events
 
