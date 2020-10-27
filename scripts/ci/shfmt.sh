@@ -6,4 +6,7 @@ set -ex
 
 cd "$(dirname "${BASH_SOURCE[0]}")"/../..
 
-shfmt -d .
+if ! shfmt -d .; then
+  echo "The scripts listed above aren't correctly formatted. Please run 'just format' from the repository root and commit the result."
+  exit 1
+fi

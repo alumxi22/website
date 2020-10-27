@@ -35,4 +35,4 @@ export -f lint
 
 echo 'will cite' | parallel --citation &>/dev/null
 
-parallel --keep-order --line-buffer lint {} ::: "${DHALL_FILES[@]}"
+./scripts/parallel_run.sh lint {} ::: "${DHALL_FILES[@]}"

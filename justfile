@@ -1,3 +1,5 @@
+all: build format lint
+
 build: render-hugo render-ci
 
 render-hugo: format lint
@@ -21,6 +23,9 @@ dhall-lint:
 
 serve:
     hugo serve -D
+
+asdf-add-plugins:
+    ./scripts/ci/asdf-add-plugins.sh
 
 install: yarn-install asdf-install
 

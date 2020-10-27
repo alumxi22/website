@@ -15,6 +15,7 @@ OTHER_PACKAGES=(
   "shellcheck"
   "shfmt"
   "fd"
+  "just"
 )
 
 for package in "${OTHER_PACKAGES[@]}"; do
