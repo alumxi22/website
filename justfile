@@ -8,7 +8,7 @@ render-hugo: format lint
 render-ci: dhall-format dhall-lint
     ./scripts/ci/render-ci-pipeline.sh
 
-format: dhall-format prettier
+format: dhall-format prettier shfmt
 
 lint: dhall-lint
 
@@ -20,6 +20,9 @@ dhall-format:
 
 dhall-lint:
     ./scripts/dhall-lint.sh
+
+shfmt:
+    ./scripts/shfmt.sh
 
 serve:
     hugo serve -D

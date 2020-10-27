@@ -122,7 +122,7 @@ jobs:
       - name: Install node packages
         run: yarn install
       - name: Check that scripts are formatted consistently
-        run: scripts/ci/shfmt.sh
+        run: scripts/ci/shfmt-check.sh
 name: CI
 on:
   push: {}
