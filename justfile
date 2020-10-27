@@ -27,10 +27,7 @@ serve:
 asdf-add-plugins:
     ./scripts/ci/asdf-add-plugins.sh
 
-install: yarn-install asdf-install
+install: yarn-install
 
-asdf-install:
-    asdf install
-
-yarn-install: asdf-install
-    yarn
+yarn-install:
+    yarn install

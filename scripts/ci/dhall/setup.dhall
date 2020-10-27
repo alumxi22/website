@@ -13,6 +13,10 @@ let ASDFSteps =
         , name = Some "Install asdf tools versions"
         , run = Some "scripts/ci/asdf-install.sh"
         }
+      , GitHubActions.Step::{
+        , name = Some "Install node packages"
+        , run = Some "yarn install"
+        }
       ]
 
 let Checkout =
