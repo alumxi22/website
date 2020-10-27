@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd "$(dirname "${BASH_SOURCE[0]}")"/../..
+cd "$(dirname "${BASH_SOURCE[0]}")"/..
 set -euxo pipefail
 
 asdf plugin-add hugo https://github.com/beardix/asdf-hugo.git
