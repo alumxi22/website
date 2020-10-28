@@ -7,18 +7,13 @@ This project relies on [Hugo](https://gohugo.io/), [Yarn](https://classic.yarnpk
 ## Basic Dev Instructions
 
 1. Run `git submodule update --init --recursive` if you haven't already done so
+1. Install GNU parallel via 'brew install parallel' (macOS) or from https://savannah.gnu.org/projects/parallel/. 🚨 Do not install the version of 'parallel' provided by 'moreutils'! 🚨
 1. Install [asdf](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) (make sure to follow the "Add to your Shell" instructions in the installation guide)
-1. Install the following [asdf](https://github.com/asdf-vm/asdf) plugins:
-
-   - [asdf-hugo](https://github.com/beardix/asdf-hugo)
-   - [asdf-nodejs](https://github.com/asdf-vm/asdf-nodejs) (remember to follow the guide's instructions to import the Node team's PGP keys)
-   - [asdf-yarn](https://github.com/twuni/asdf-yarn)
-   - [asdf-dhall](https://github.com/aaaaninja/asdf-dhall)
-
-1. Install [the `just` command runner](https://github.com/casey/just) using the instructions located at https://github.com/casey/just#installation
-1. Run `just install` to install all the tools specified in [.tool-versions](./tool-versions) and [package.json](./package.json)
+1. Run [scripts/asdf-add-plugins.sh](.scripts/asdf-add-plugins.sh) to [install all the asdf plugins](./scripts/asdf-add-plugins.sh) specified in [.tool-versions](./tool-versions)
+1. Run `asdf install` to install all the tool versions specified in [.tool-versions](./tool-versions)
+1. Run `just install` to install of the packages specified in [package.json](./package.json)
 1. Run `just serve` to locally serve the site and automatically reload on file changes
-1. Run `just build` (or just `just`) to
+1. Run `just all` (or just `just`) to
    1. Format and lint all the files in the repository
    1. Render the site to the `docs/` folder
    1. Render the CI pipeline to `.github/workflows/ci.yaml`

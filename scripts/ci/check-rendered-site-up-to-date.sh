@@ -3,6 +3,6 @@
 cd "$(dirname "${BASH_SOURCE[0]}")"/../..
 set -euxo pipefail
 
-hugo
+just all
 
 git diff --exit-code docs/

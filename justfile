@@ -1,3 +1,5 @@
+all: build format lint
+
 build: render-hugo render-ci
 
 render-hugo: format lint
@@ -6,7 +8,7 @@ render-hugo: format lint
 render-ci: dhall-format dhall-lint
     ./scripts/ci/render-ci-pipeline.sh
 
-format: dhall-format prettier
+format: dhall-format prettier shfmt
 
 lint: dhall-lint
 
@@ -19,13 +21,16 @@ dhall-format:
 dhall-lint:
     ./scripts/dhall-lint.sh
 
+shfmt:
+    ./scripts/shfmt.sh
+
 serve:
     hugo serve -D
 
-install: yarn-install asdf-install
+asdf-add-plugins:
+    ./scripts/ci/asdf-add-plugins.sh
 
-asdf-install:
-    asdf install
+install: yarn-install
 
-yarn-install: asdf-install
-    yarn
+yarn-install:
+    yarn install

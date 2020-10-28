@@ -7,11 +7,15 @@ let ASDFSteps =
         }
       , GitHubActions.Step::{
         , name = Some "Install asdf plugins"
-        , run = Some "scripts/ci/asdf-add-plugins.sh"
+        , run = Some "scripts/asdf-add-plugins.sh"
         }
       , GitHubActions.Step::{
         , name = Some "Install asdf tools versions"
         , run = Some "scripts/ci/asdf-install.sh"
+        }
+      , GitHubActions.Step::{
+        , name = Some "Install node packages"
+        , run = Some "yarn install"
         }
       ]
 
