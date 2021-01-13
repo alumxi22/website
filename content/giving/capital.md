@@ -4,10 +4,14 @@ title: "Capital Campaign"
 
 # We are announcing our first 22nd annual capital campaign.
 
+{{<progress goal="2222222" raised="16978">}}
+
+# <!-- DO NOT REMOVE, USED FOR PROPER SPACING -->
+
 {{< rawhtml >}}
 
 <div style="text-align:center">
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
+<a id='gfm-charity-donate-link' style='background-color:#ee72f1; color: black; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
 </div>
 {{< /rawhtml >}}
 

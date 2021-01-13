@@ -1,0 +1,61 @@
+#countdown-wrap {
+    width: 100%;
+    /* height: 300px; */
+    //border: 1px solid black;
+    padding: 20px;
+    /* font-family: arial; */
+    /* max-width: 650px; */
+    /* margin: 150px auto 300px; */
+    box-sizing: border-box;
+    /* display: block; */
+}
+
+#goal {
+    font-size: 1.4rem;
+    text-align: right;
+    /* color: #fff; */
+    /* @media only screen and (max-width: 640px) {
+        text-align: center;
+    } */
+}
+
+#glass {
+    width: 100%;
+    height: 20px;
+    background: #c7c7c7;
+    border-radius: 10px;
+    float: left;
+    overflow: hidden;
+}
+
+#progress {
+    float: left;
+    height: 20px;
+    background: #ee72f1;
+    z-index: 333;
+    border-radius: 5px;
+}
+
+.goal-stat {
+    width: 25%;
+    //height: 30px;
+    padding: 10px;
+    float: left;
+    /* margin: 0; */
+    color: #fff;
+    /* display: block; */
+    /* @media only screen and (max-width: 640px) {
+        width: 50%;
+        text-align: center;
+    } */
+}
+
+.goal-number,
+.goal-label {
+    font-size: 1.1rem;
+    display: block;
+}
+
+.goal-number {
+    font-weight: bold;
+}

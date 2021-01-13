@@ -1,0 +1,19 @@
+{{ $raised := (.Get "raised" ) }}
+{{ $goal := (.Get "goal" ) }}
+{{ $percent := (math.Round (mul (div (float $raised) (float $goal)) 100 )) }}
+<p>
+    <div id="countdown-wrap">
+        <div id="goal"> ${{ ( lang.NumFmt 0 $goal )}} </div>
+        <div id="glass">
+            <div id="progress" style="width: {{ $percent}}%;"></div>
+        </div>
+        <div class="goal-stat">
+            <span class="goal-number">{{ $percent }}%</span>
+            <span class="goal-label">Funded</span>
+        </div>
+        <div class="goal-stat">
+            <span class="goal-number">${{ ( lang.NumFmt 0 $raised ) }} </span>
+            <span class="goal-label">Raised</span>
+        </div>
+    </div>
+</p>
