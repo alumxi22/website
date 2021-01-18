@@ -5,11 +5,7 @@
     <link>https://www.alumxi.com/taxes/</link>
     <description>Recent content in Taxes on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.alumxi.com/taxes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.alumxi.com/taxes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Form 990s</title>
       <link>https://www.alumxi.com/taxes/form-990/</link>

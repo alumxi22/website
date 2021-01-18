@@ -5,11 +5,7 @@
     <link>https://www.alumxi.com/membership/</link>
     <description>Recent content in Memberships on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.alumxi.com/membership/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.alumxi.com/membership/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Membership in AlumXi</title>
       <link>https://www.alumxi.com/membership/alumxi/</link>

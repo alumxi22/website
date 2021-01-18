@@ -5,10 +5,6 @@
     <link>https://www.alumxi.com/about/</link>
     <description>Recent content in About Tau Epsilon Phi (National) on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.alumxi.com/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.alumxi.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

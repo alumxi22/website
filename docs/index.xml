@@ -5,11 +5,7 @@
     <link>https://www.alumxi.com/</link>
     <description>Recent content in About on Xi Chapter Alumni Association</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.alumxi.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.alumxi.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capital Campaign</title>
       <link>https://www.alumxi.com/giving/capital/</link>
