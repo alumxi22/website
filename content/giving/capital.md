@@ -8,12 +8,7 @@ title: "Capital Campaign"
 
 # <!-- DO NOT REMOVE, USED FOR PROPER SPACING -->
 
-{{< rawhtml >}}
-
-<div style="text-align:center">
-<a id='gfm-charity-donate-link' style='background-color:#ee72f1; color: black; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
-</div>
-{{< /rawhtml >}}
+{{<donate>}}
 
 253 Commonwealth Ave is the hub of the hub of the universe. Living at
 the house was the foundation around which our MIT experience was
@@ -58,12 +53,7 @@ milestone of $222,222 by Graduation Day 2022, and ongoing donations of
 bond fund or other investment, and the interest payments would be
 earmarked for our fixed costs.
 
-{{< rawhtml >}}
-
-<div style="text-align:center">
-<img  src="/img/leits.jpg" style="display: inline-block; vertical-align:middle" width="444">
-</div>
-{{< /rawhtml >}}
+{{<donate>}}
 
 While this is a large sum, we _can_ get there -- if If every alum
 donates just one more housebill (\$2222+), we would exceed our final
@@ -73,9 +63,7 @@ do!
 
 # Make a Donation
 
-{{< rawhtml >}}
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
-{{< /rawhtml >}}
+{{<donate>}}
 
 Every donor will be recognized for their donation on a plaque in the house. You can put whatever message you want, your mundane thoughts engraved for eternity! These names will live forever alongside the wainscotting. In addition, certain large gifts will be recognized with banister posts, as well as the privilege to name specific objects (grease trap! toilets!) or locations in the house.
 
@@ -120,10 +108,16 @@ You can help in a plethora of ways:
 <img  src="/img/xiohazard.png" style="display: inline-block; vertical-align:middle" width="44">
 <img  src="/img/xiohazard.png" style="display: inline-block; vertical-align:middle" width="44">
 <img  src="/img/xiohazard.png" style="display: inline-block; vertical-align:middle" width="44">
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
+
+{{</ rawhtml >}}
+
+{{<donate>}}
+
+{{< rawhtml >}}
 <img  src="/img/xiohazard.png" style="display: inline-block; vertical-align:middle" width="44">
 <img  src="/img/xiohazard.png" style="display: inline-block; vertical-align:middle" width="44">
 <img  src="/img/xiohazard.png" style="display: inline-block; vertical-align:middle" width="44">
+
 </div>
 {{< /rawhtml >}}
 
@@ -152,9 +146,7 @@ The fixed costs of keeping the house are ~$100,000 annually. This includes prope
 **How can I donate?**
 Boy I’m glad you asked that. You can donate via WePay using the handy button below:
 
-{{< rawhtml >}}
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/xi-endowment/xi-fellowship'>Donate</a>
-{{< /rawhtml >}}
+{{<donate>}}
 
 You can also mail a check to:
 
