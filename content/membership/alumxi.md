@@ -10,12 +10,12 @@ the house but never formally joined, such as former RAs.
 ## Joining AlumXi
 
 To join AlumXi, all you have to do is be a Xi alum in good standing (see
-above) and [pay your annual \$22.22 dues](../giving/alumxi/#dues).
+above) and pay your annual \$22.22 dues.
 
 {{< rawhtml >}}
 
 <div style="text-align:center">
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/annual-dues/xi-fellowship'>Pay dues ($22.22)</a>
+<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/o/en/campaign/alumxi-annual-dues-2021'>Pay dues ($22.22)</a>
 </div>
 {{< /rawhtml >}}
 
