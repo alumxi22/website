@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd "$(dirname "${BASH_SOURCE[0]}")"/..
-set -eu pipefail
+set -euxo pipefail 
 
 DHALL_FILES=()
 
