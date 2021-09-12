@@ -5,19 +5,26 @@ title: "Donate to Alumxi"
 Note that AlumXi is a 501(c)7 not-for-profit and contributions are
 **not** tax-deductible. If that is a significant concern, you can [donate to certain MIT funds](#giving-to-mit) instead.
 
-## How to Donate to the Capital Campaign
+## Dues
+
+Annual dues for the Alumni Association of Xi Chapter of Tau Epsilon
+Phi Inc are \$22.22 for 2021 onwards. They can be paid using any of the options below.
+
+## How to Donate to alumxi
 
 We are running our first 22nd annual [capital
 campaign](../capital). You can donate using the
-button below, or see [here](../capital/#faq) for other methods.
+form below, or read on for other methods.
 
-{{<donate>}}
+{{<donate-form>}}
 
-## How to Make a One-Time General Donation
+## Other ways to donate
 
-If you prefer to make a general donation instead of contributing to the capital campaign, You can do so via [PayPal](https://www.paypal.com/) using
-the “Donate” button below. You get to pick the amount of your
-donation. May we suggest $22.22 or $222.22?
+The form above is the easiest way to donate and it has low fees, but there are other options.
+
+### PayPal
+
+You can donate via Paypal using the "Donate" button below. This can be a one-time or monthly donation. You get to pick the amount of your donation. May we suggest $22.22 or $222.22?
 
 {{< rawhtml >}}
 
@@ -30,37 +37,9 @@ donation. May we suggest $22.22 or $222.22?
 </div>
 {{< /rawhtml >}}
 
-## Monthly Donations via PayPal
+### Donation by Mail
 
-You can also make a make a recurring monthly donation via [PayPal](https://www.paypal.com/) using the “Subscribe” button below. At the moment you can only pick from some pre-selected options. Eit!
-{{< rawhtml >}}
-
-<div style="text-align:center">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="center" ><input name="cmd" type="hidden" value="_s-xclick">
-<input name="hosted_button_id" type="hidden" value="F85FTN5BHGL4J">&nbsp;<p></p>
-<table>
-<tbody>
-<tr>
-<td><input name="on0" type="hidden" value="Monthly Donation Plans">Monthly Donation Plans</td>
-</tr>
-<tr>
-<td><select name="os0"><option value="$10.22 plan">$10.22 plan : $10.22USD – monthly</option><option value="$22.22 plan">$22.22 plan : $22.22USD – monthly</option><option value="$42.22 plan">$42.22 plan : $42.22USD – monthly</option><option value="$82.22 plan">$82.22 plan : $82.22USD – monthly</option><option value="$122.22 plan">$122.22 plan : $122.22USD – monthly</option><option value="$222.22 plan">$222.22 plan : $222.22USD – monthly</option><option value="$522.22 plan">$522.22 plan : $522.22USD – monthly</option></select></td>
-</tr>
-</tbody>
-</table>
-<p><input name="currency_code" type="hidden" value="USD"><br>
-<input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_subscribeCC_LG.gif" type="image"><br>
-<img style="display: none !important;" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" hidden="" height="1" border="0"></p>
-<div></div></form>
-</form>
-</div>
-{{< /rawhtml >}}
-
-Note this payment will **continue until you stop it**. (You can stop it from the **My preapproved payments** section on the [PayPal web site](https://www.paypal.com/), or you can write to us for help.)
-
-## How to Make a Donation by Mail
-
-[PayPal](https://www.paypal.com/) charges a **`$0.30 + 2.9%` transaction fee**, so it’s not a good choice for large donations. To avoid this fee, either send a check (below) or have your bank/brokerage send funds directly (contact the treasurer for details).
+[PayPal](https://www.paypal.com/) charges a **`$0.30 + 2.9%` transaction fee**, so it’s not a good choice for large donations. To avoid this fee, either send a check (below) or have your bank/brokerage send funds directly (contact the treasurer at `treasurer@alumxi.com` for details).
 
 Checks should be made out to “Alumni Association of Xi Chapter of Tau Epsilon Phi” and mailed to:
 
@@ -83,7 +62,7 @@ Phi Inc are \$22.22 for 2021 onwards. They can be paid using the button below.
 {{< rawhtml >}}
 
 <div style="text-align:center">
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://charity.gofundme.com/donate/project/annual-dues/xi-fellowship'>Pay dues ($22.22)</a>
+<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://givebutter.com/xi-endowment'>Pay dues ($22.22)</a>
 </div>
 {{< /rawhtml >}}
 

@@ -144,20 +144,11 @@ We will put the endowment donations into conservative investments such as highly
 The fixed costs of keeping the house are ~$100,000 annually. This includes property taxes of ~$40,000, paying off the current mortgage, and paying for a minimum level of utilities and other services.
 
 **How can I donate?**
-Boy I’m glad you asked that. You can donate via WePay using the handy button below:
+Boy I’m glad you asked that. You can donate via the form below:
 
-{{<donate>}}
+{{<donate-form>}}
 
-You can also mail a check to:
-
-```
-ALUMNI ASSOCIATION OF XI CHAPTER OF TAU EPSILON PHI, INC.
-c/o NIKO MATSAKIS
-11 HENRY AVE
-SOMERVILLE, MA 02144
-```
-
-Or, you can email treasurer@alumxi.com to arrange a wire transfer.
+See [the donation page](/giving/alumxi/) for further details.
 
 **What happened in the Spring with the lockdown?** MIT asked all undergraduates to leave MIT housing by March 17th, and
 the students who were granted exceptions were required to move to
