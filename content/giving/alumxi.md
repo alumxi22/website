@@ -20,11 +20,11 @@ form below, or read on for other methods.
 
 ## Other ways to donate
 
-The form above is the easiest way to donate and it has low fees, but there are other options.
+The form above is the easiest way to donate and it has low fees, but there are other options:
 
 ### PayPal
 
-You can donate via Paypal using the "Donate" button below. This can be a one-time or monthly donation. You get to pick the amount of your donation. May we suggest $22.22 or $222.22?
+You can donate via Paypal using the "Donate" button below. This can be a one-time or monthly donation. You get to pick the amount of your donation. May we suggest $22.22 or $222.22? Please keep in mind that PayPal does charge a fee, so for large donations we would advise you to send money via ACH or mail as described below.
 
 {{< rawhtml >}}
 
@@ -37,9 +37,11 @@ You can donate via Paypal using the "Donate" button below. This can be a one-tim
 </div>
 {{< /rawhtml >}}
 
-### Donation by Mail
+### Donation by ACH
 
-[PayPal](https://www.paypal.com/) charges a **`$0.30 + 2.9%` transaction fee**, so it’s not a good choice for large donations. To avoid this fee, either send a check (below) or have your bank/brokerage send funds directly (contact the treasurer at `treasurer@alumxi.com` for details).
+If you prefer, you can set up a payment directly to our bank account. For information please contact the treasurer at `treasurer@alumxi.com` for details.
+
+### Donation by Mail
 
 Checks should be made out to “Alumni Association of Xi Chapter of Tau Epsilon Phi” and mailed to:
 
