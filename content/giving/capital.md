@@ -4,7 +4,7 @@ title: "Capital Campaign"
 
 # We are announcing our first 22nd annual capital campaign.
 
-{{<progress goal="2222222" raised="106067">}}
+{{<progress goal="2222222" raised="122978">}}
 
 # <!-- DO NOT REMOVE, USED FOR PROPER SPACING -->
 
