@@ -20,22 +20,7 @@ form below, or read on for other methods.
 
 ## Other ways to donate
 
-The form above is the easiest way to donate and it has low fees, but there are other options:
-
-### PayPal
-
-You can donate via Paypal using the "Donate" button below. This can be a one-time or monthly donation. You get to pick the amount of your donation. May we suggest $22.22 or $222.22? Please keep in mind that PayPal does charge a fee, so for large donations we would advise you to send money via ACH or mail as described below.
-
-{{< rawhtml >}}
-
-<div style="text-align:center">
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input name="cmd" type="hidden" value="_s-xclick" class="center">
-  <input name="hosted_button_id" type="hidden" value="F95DZ2BTSKYKQ"><br>
-  <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"><br>
-  <img style="display: none !important;" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" hidden="" height="1" border="0">
-</form>
-</div>
-{{< /rawhtml >}}
+The form above is the easiest way to donate and it has low fees, but there are other options. Regardless of how you choose to donate, thank very much for your support!
 
 ### Donation by ACH
 
@@ -54,7 +39,20 @@ SOMERVILLE, MA 02144
 
 AlumXi’s mailing address changed to the address above in February, 2020.
 
-Thank very much for your support!
+### Donation by PayPal
+
+We discourage donations via PayPal because of the associated fees, but for some folks it's the best option. If you're in that boat, you can use the button below to donate to our account.
+
+{{< rawhtml >}}
+
+<div style="text-align:center">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input name="cmd" type="hidden" value="_s-xclick" class="center">
+  <input name="hosted_button_id" type="hidden" value="F95DZ2BTSKYKQ"><br>
+  <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"><br>
+  <img style="display: none !important;" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" hidden="" height="1" border="0">
+</form>
+</div>
+{{< /rawhtml >}}
 
 # Dues
 
