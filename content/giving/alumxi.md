@@ -2,19 +2,44 @@
 title: "Donate to Alumxi"
 ---
 
+**AlumXi needs your help!** We are here to make sure that Tep endures,
+helping future Teply MIT students find a place they can make their own,
+just as we all did. To do that, we need your financial support.
+
 Note that AlumXi is a 501(c)7 not-for-profit and contributions are
 **not** tax-deductible. If that is a significant concern, you can [donate to certain MIT funds](#giving-to-mit) instead.
 
+## How much to give?
+
+If at all possible, we encourage setting up a **recurring, monthly donation**.
+Whatever amount works for you is welcome,
+but if you're looking for some guidelines,
+we've prepared a handy chart below.
+The chart shows several donation tiers -- pick the one most appropriate for you!
+
+{{< recommended_donation_peldge_year >}}
+
+| Tier                                                                              | Recommended amount                       | Equivalent                                     |
+| --------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
+| Alumxi advocate                                                                   | {{< recommended_donation factor="16" >}} | {{< recommended_donation_equiv factor="16" >}} |
+| Squid supporter ![Recommended](https://img.shields.io/badge/-Recommended!-purple) | {{< recommended_donation factor="4" >}}  | {{< recommended_donation_equiv factor="4" >}}  |
+| Purple palace guard                                                               | {{< recommended_donation factor="2" >}}  | {{< recommended_donation_equiv factor="2" >}}  |
+
+{{< recommended_donation_js >}}
+
 ## Dues
 
-Annual dues for the Alumni Association of Xi Chapter of Tau Epsilon
-Phi Inc are \$22.22 for 2021 onwards. They can be paid using any of the options below.
+Alumxi annual dues are **\$22 per year**.
+If you setup a monthly donation, that money counts towards your annual dues.
+If you do not have a monthly donation, then you must contribute at least \$22 to be considered a member in good standing
+and hence eligible to vote in elections.
 
 ## How to Donate to alumxi
 
-We are running our first 22nd annual [capital
-campaign](../capital). You can donate using the
-form below, or read on for other methods.
+Our preferred way to donate is using through [our campaign on givebutter.com][campaign], using the form below.
+If this doesn't work for you, though, [read on for other methods](#other-ways-to-donate).
+
+[campaign]: https://givebutter.com/xi-endowment
 
 {{<donate-form>}}
 
@@ -51,18 +76,6 @@ We discourage donations via PayPal because of the associated fees, but for some 
   <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"><br>
   <img style="display: none !important;" src="https://www.paypal.com/en_US/i/scr/pixel.gif" alt="" width="1" hidden="" height="1" border="0">
 </form>
-</div>
-{{< /rawhtml >}}
-
-# Dues
-
-Annual dues for the Alumni Association of Xi Chapter of Tau Epsilon
-Phi Inc are \$22.22 for 2021 onwards. They can be paid using the button below.
-
-{{< rawhtml >}}
-
-<div style="text-align:center">
-<a id='gfm-charity-donate-link' style='background-color:#673ab7; color: white; border-radius: 4px; padding: 12px 24px; display: inline-block; text-decoration: none; vertical-align: middle; font-size: 16px; font-family: Open Sans,sans-serif; line-height: 24px' role='button' href='https://givebutter.com/xi-endowment'>Pay dues ($22.22)</a>
 </div>
 {{< /rawhtml >}}
 

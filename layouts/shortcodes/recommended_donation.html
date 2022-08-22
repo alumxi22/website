@@ -1,0 +1,4 @@
+{{ $factor := (.Get "factor" ) }}
+<span factor="{{$factor}}" class="recommended-donation">
+    (TRUNC((CurrentYear - PeldgeYear)/{{$factor}})+1) * $22 per month
+    </span>
