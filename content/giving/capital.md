@@ -4,33 +4,27 @@ title: "Capital Campaign"
 
 # We are announcing our first 22nd annual capital campaign.
 
-{{<progress goal="2222222" raised="126254">}}
+{{<progress goal="1222222" raised="126254">}}
 
 # <!-- DO NOT REMOVE, USED FOR PROPER SPACING -->
 
 {{<donate>}}
 
+{{< rawhtml >}}
+<img  src="/img/house.jpg" style="float:right" width="350">
+{{< /rawhtml >}}
 253 Commonwealth Ave is the hub of the hub of the universe. Living at
 the house was the foundation around which our MIT experience was
 built, and having lived there is still a large part of our lives. As
 we know, college friendships last a very long time.
 
-Much is changing on campus due to the Coronavirus, and the house will be effectively shut down for over a year. No summer renters or undergraduates are allowed in the house through at least the rest of 2020. But we are lucky, between the cash reserve we had built up and some support from MIT the house will survive to see 2022. We need your help to _thrive_ though.
+The COVID shutdown in 2019 left the house empty for over a year.
+That was a big blow to the house, both financially and socially.
+If it weren't for the combination of alumxi savings and MIT's generous support, the house would likely have folded.
+Thankfully, we made it through, and the undergraduates have done a great job re-establishing the social network and finding new peldges.
+But the experience has made it clear that bad things can happen(™) and we need to prepare financially for the next surprise -- and to do that, [**we need your help**](/giving/alumxi).
 
-{{< rawhtml >}}
-
-<div style="text-align:center">
-<img  src="/img/house.jpg" style="display: inline-block; vertical-align:middle" width="444">
-</div>
-{{< /rawhtml >}}
-
-Besides the fact that we will be draining our reserves, this has shown
-us that bad things can happen(™). Things that can put the existence of
-the house at risk. Right now, some of the other houses at MIT are in
-danger and could even lose their houses. We need an endowment in order
-to secure the house in perpetuity. It will ensure that we can continue
-to provide future students with the same great experience we all had.
-So let’s tackle this together.
+{{<donate>}}
 
 ## \$1.22M dollar Capital Campaign
 
@@ -55,16 +49,14 @@ earmarked for our fixed costs.
 
 {{<donate>}}
 
-While this is a large sum, we _can_ get there -- if If every alum
+# How will we do it?
+
+While this is a large sum, we _can_ get there -- if every alum
 donates just one more housebill (\$2222+), we would exceed our final
-goal. We know that not everybody will be able to make this
-contribution, but anything helps. And if you can provide more, please
-do!
+goal. **If you are able to help us, please [go to our donation page and setup a monthly donation](/giving/alumxi).**
+That page has tips for how much to give and offers a variety of giving tiers, so you can find one that works best for you.
 
-# Make a Donation
-
-{{<donate>}}
-
+As added incentive, donations count towards your annual alumxi dues, and we even have splifty donation gifts available!
 Every donor will be recognized for their donation on a plaque in the house. You can put whatever message you want, your mundane thoughts engraved for eternity! These names will live forever alongside the wainscotting. In addition, certain large gifts will be recognized with banister posts, as well as the privilege to name specific objects (grease trap! toilets!) or locations in the house.
 
 #### Honig’s Heroes Matching Fund
@@ -144,11 +136,7 @@ We will put the endowment donations into conservative investments such as highly
 The fixed costs of keeping the house are ~$100,000 annually. This includes property taxes of ~$40,000, paying off the current mortgage, and paying for a minimum level of utilities and other services.
 
 **How can I donate?**
-Boy I’m glad you asked that. You can donate via the form below:
-
-{{<donate-form>}}
-
-See [the donation page](/giving/alumxi/) for further details.
+Boy I’m glad you asked that. You go to our [donation page](/giving/alumxi/) for further details.
 
 **What happened in the Spring with the lockdown?** MIT asked all undergraduates to leave MIT housing by March 17th, and
 the students who were granted exceptions were required to move to

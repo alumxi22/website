@@ -11,7 +11,7 @@ Note that AlumXi is a 501(c)7 not-for-profit and contributions are
 
 ## How much to give?
 
-If at all possible, we encourage setting up a recurring, monthly donation.
+If at all possible, we encourage setting up a **recurring, monthly donation**.
 Whatever amount works for you is welcome,
 but if you're looking for some guidelines,
 we've prepared a handy chart below.
