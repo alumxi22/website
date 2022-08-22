@@ -7,7 +7,6 @@ asdf plugin-add hugo https://github.com/beardix/asdf-hugo.git
 
 # https://github.com/asdf-vm/asdf-nodejs#install
 asdf plugin-add nodejs
-~/.asdf/plugins/nodejs/bin/import-release-team-keyring
 
 OTHER_PACKAGES=(
   "yarn"
