@@ -22,17 +22,17 @@ In addition to the TEP values of friendship, chivalry and service, Xi chapter an
 
 # Executive Board
 
-| Members           | Position                       |
-| ----------------- | ------------------------------ |
-| Colleen Josephson | President                      |
-| Ian Collier       | Vice-President                 |
-| Niko Matsakis     | Treasurer and Registered Agent |
-| Shervin Fatehi    | Secretary                      |
-| Nick Matsakis     | Records Manager                |
-| Carrie Fowle      | Fundraising Chair              |
-| Dan Taub          | Undergrad Liaison              |
-| Del Merritt       | Director                       |
-| Andrew Sudbury    | Director                       |
+| Members        | Position              |
+| -------------- | --------------------- |
+| Ian Collier    | President             |
+| Sydney Gibson  | Vice President        |
+| Fisher Jepsen  | Treasurer             |
+| Shervin Fatehi | Secretary             |
+| Niko Matsakis  | Fundraising Chair     |
+| Nick Matsakis  | Records Manager       |
+| Dan Taub       | Undergraduate liaison |
+| Del Merritt    | Director              |
+| Andrew Sudbury | Director              |
 
 To reach the executive board:
 
