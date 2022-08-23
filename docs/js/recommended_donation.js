@@ -23,9 +23,9 @@ function recomputeRecommendedDonations() {
     let waterBalloonCost = 0.016; // walmart sells 250 balloons for about $4
 
     let waterBalloons = value / waterBalloonCost;
-    let mortgage = 7500;
+    let mortgage = 10000;
     let mortageFraction = Math.trunc(mortgage / value);
 
-    tier.textContent = `${waterBalloons} water balloons, or 1/${mortageFraction}th of the monthly mortgage`;
+    tier.textContent = `${waterBalloons} water balloons, or 1/${mortageFraction}th of the monthly fixed costs`;
   }
 }
