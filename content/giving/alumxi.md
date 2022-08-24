@@ -15,15 +15,16 @@ If at all possible, we encourage setting up a **recurring, monthly donation**.
 Whatever amount works for you is welcome,
 but if you're looking for some guidelines,
 we've prepared a handy chart below.
-The chart shows several donation tiers -- pick the one most appropriate for you!
+The chart shows several donation tiers -- pick the one best for you!
+**If all the alumxi alumni gave at the "alumxi advocate tier", we would meet our fundraising goal!**
 
 {{< recommended_donation_peldge_year >}}
 
-| Tier                                                                              | Recommended amount                       | Equivalent                                     |
-| --------------------------------------------------------------------------------- | ---------------------------------------- | ---------------------------------------------- |
-| Alumxi advocate                                                                   | {{< recommended_donation factor="16" >}} | {{< recommended_donation_equiv factor="16" >}} |
-| Squid supporter ![Recommended](https://img.shields.io/badge/-Recommended!-purple) | {{< recommended_donation factor="4" >}}  | {{< recommended_donation_equiv factor="4" >}}  |
-| Purple palace guard                                                               | {{< recommended_donation factor="2" >}}  | {{< recommended_donation_equiv factor="2" >}}  |
+| Tier                                                                               | Recommended amount                       | In ten years, you will have funded in perpetuity... |
+| ---------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------- |
+| Alumxi advocate                                                                    | {{< recommended_donation factor="16" >}} | {{< recommended_donation_equiv factor="16" >}}      |
+| Squids supporter ![Recommended](https://img.shields.io/badge/-Recommended!-purple) | {{< recommended_donation factor="8" >}}  | {{< recommended_donation_equiv factor="4" >}}       |
+| Purple palace guard                                                                | {{< recommended_donation factor="2" >}}  | {{< recommended_donation_equiv factor="2" >}}       |
 
 {{< recommended_donation_js >}}
 
