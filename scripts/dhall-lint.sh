@@ -33,6 +33,6 @@ function lint() {
 }
 export -f lint
 
-echo 'will cite' | parallel --citation &>/dev/null
+# echo 'will cite' | parallel --citation &>/dev/null
 
 ./scripts/parallel_run.sh lint {} ::: "${DHALL_FILES[@]}"

@@ -33,6 +33,6 @@ function format() {
 }
 export -f format
 
-echo 'will cite' | parallel --citation &>/dev/null
+# echo 'will cite' | parallel --citation &>/dev/null
 
 ./scripts/parallel_run.sh format {} ::: "${DHALL_FILES[@]}"
