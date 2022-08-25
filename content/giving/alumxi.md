@@ -20,7 +20,7 @@ The chart shows several donation tiers -- pick the one best for you!
 
 {{< recommended_donation_peldge_year >}}
 
-| Tier                                                                               | Recommended amount                       | In ten years, you will have funded in perpetuity... |
+| Tier                                                                               | Recommended amount                       | In ten years, the interest on your donations will fund... |
 | ---------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------- |
 | Alumxi advocate                                                                    | {{< recommended_donation factor="16" >}} | {{< recommended_donation_equiv factor="16" >}}      |
 | Squids supporter ![Recommended](https://img.shields.io/badge/-Recommended!-purple) | {{< recommended_donation factor="8" >}}  | {{< recommended_donation_equiv factor="4" >}}       |
