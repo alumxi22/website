@@ -22,8 +22,6 @@ function recomputeRecommendedDonations() {
     let value = computeAmount(factor);
     let waterBalloonCost = 0.016; // walmart sells 250 balloons for about $4
 
-    let waterBalloons = value / waterBalloonCost;
-
     // Assumption: input_goal * interest_rate = output_assumed (per year)
     let total_goal = 1222222; // total goal to be raised over 10 years
     let assumed_interest = 50000; // amount we assume we can get in interest
@@ -34,9 +32,11 @@ function recomputeRecommendedDonations() {
     let annual_property_tax = 40000;
     let annual_mortgage = 45000;
 
+    let waterBalloons = Math.trunc(ten_years_funded / waterBalloonCost);
+
     let tax_fraction = Math.trunc(annual_property_tax / ten_years_funded);
     let mortgage_fraction = Math.trunc(annual_mortgage / ten_years_funded);
     let insurance_fraction = Math.trunc(annual_insurance / ten_years_funded);
-    tier.innerHTML = `${waterBalloons} water balloons.<br>1/${tax_fraction}th of the property tax.`;
+    tier.innerHTML = `1/${tax_fraction} of the property tax (or ${waterBalloons} water balloons!)`;
   }
 }
