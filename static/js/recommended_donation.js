@@ -1,14 +1,14 @@
-var peldge_year = document.getElementById("peldge_year");
+var class_year = document.getElementById("class_year");
 
-peldge_year.onchange = recomputeRecommendedDonations;
+class_year.onchange = recomputeRecommendedDonations;
 function recomputeRecommendedDonations() {
   function computeAmount(scaleFactor) {
-    let peldgeYear = parseInt(peldge_year.value);
+    let classYear = parseInt(class_year.value);
     let currentYear = new Date().getUTCFullYear();
-    if (peldgeYear >= currentYear) {
+    if (classYear >= currentYear) {
       return 0;
     }
-    return (Math.trunc((currentYear - peldgeYear) / scaleFactor) + 1) * 22;
+    return (Math.trunc((currentYear - classYear) / scaleFactor) + 1) * 22;
   }
 
   for (let tier of document.getElementsByClassName("recommended-donation")) {

@@ -18,7 +18,7 @@ we've prepared a handy chart below.
 The chart shows several donation tiers -- pick the one best for you!
 **If all the alumxi alumni gave at the "alumxi advocate tier", we would meet our fundraising goal!**
 
-{{< recommended_donation_peldge_year >}}
+{{< recommended_donation_class_year >}}
 
 | Tier                                                                               | Recommended amount                       | In ten years, the interest on your donations will fund... |
 | ---------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------- |
