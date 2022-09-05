@@ -18,12 +18,12 @@ we've prepared a handy chart below.
 The chart shows several donation tiers -- pick the one best for you!
 **If all the alumxi alumni gave at the "alumxi advocate tier", we would meet our fundraising goal!**
 
-{{< recommended_donation_peldge_year >}}
+{{< recommended_donation_class_year >}}
 
 | Tier                                                                               | Recommended amount                       | In ten years, the interest on your donations will fund... |
 | ---------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------- |
 | Alumxi advocate                                                                    | {{< recommended_donation factor="16" >}} | {{< recommended_donation_equiv factor="16" >}}            |
-| Squids supporter ![Recommended](https://img.shields.io/badge/-Recommended!-purple) | {{< recommended_donation factor="8" >}}  | {{< recommended_donation_equiv factor="4" >}}             |
+| Squids supporter ![Recommended](https://img.shields.io/badge/-Recommended!-purple) | {{< recommended_donation factor="8" >}}  | {{< recommended_donation_equiv factor="8" >}}             |
 | Purple palace guard                                                                | {{< recommended_donation factor="2" >}}  | {{< recommended_donation_equiv factor="2" >}}             |
 
 {{< recommended_donation_js >}}
