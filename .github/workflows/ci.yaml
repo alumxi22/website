@@ -2,7 +2,7 @@
 jobs:
   checkDocs:
     name: "Rendered 'docs/' is up to date"
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
@@ -19,7 +19,7 @@ jobs:
         run: scripts/ci/check-rendered-site-up-to-date.sh
   checkPipeline:
     name: Rendered CI pipeline is up to date
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
@@ -36,7 +36,7 @@ jobs:
         run: scripts/ci/check-rendered-pipeline-up-to-date.sh
   dhallFormat:
     name: dhall-format
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
@@ -55,7 +55,7 @@ jobs:
         run: scripts/dhall-format.sh
   dhallLint:
     name: dhall-lint
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
@@ -74,7 +74,7 @@ jobs:
         run: scripts/dhall-lint.sh
   prettier:
     name: Prettier formatting
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
@@ -91,7 +91,7 @@ jobs:
         run: scripts/ci/check-prettier.sh
   shellcheck:
     name: shellcheck
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
@@ -108,7 +108,7 @@ jobs:
         run: scripts/ci/shellcheck.sh
   shfmt:
     name: shfmt
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: "actions/checkout@master"
         with:
