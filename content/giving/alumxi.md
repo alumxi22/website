@@ -54,13 +54,12 @@ If you prefer, you can set up a payment directly to our bank account. For inform
 
 ### Donation by Mail
 
-Checks should be made out to “Alumni Association of Xi Chapter of Tau Epsilon Phi” and mailed to:
+Checks should be made out to “Alumni Association of tEp Inc.” and mailed to:
 
 ```
-ALUMNI ASSOCIATION OF XI CHAPTER OF TAU EPSILON PHI, INC.
-c/o NIKO MATSAKIS
-11 HENRY AVE
-SOMERVILLE, MA 02144
+ALUMNI ASSOCIATION OF TEP INC.
+2093 PHILADELPHIA PIKE #2253
+CLAYMONT, DE 19703
 ```
 
 AlumXi’s mailing address changed to the address above in February, 2020.
@@ -80,12 +79,12 @@ We discourage donations via PayPal because of the associated fees, but for some 
 </div>
 {{< /rawhtml >}}
 
-# Donating to Xi Chapter Directly
+# Donating to Xi Fellowship Directly
 
 You can also send a check directly to the undergraduates. This is also _not_ tax deductible.
 
 ```
-Tau Epsilon Phi Xi Chapter
+Xi Fellowship
 253 Commonwealth Ave
 Boston, MA 02116
 ```
