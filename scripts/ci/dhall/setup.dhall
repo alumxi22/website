@@ -32,7 +32,7 @@ let Job =
       { Type = GitHubActions.Job.Type
       , default =
           GitHubActions.Job.default
-        with runs-on = GitHubActions.RunsOn.Type.`ubuntu-18.04`
+        with runs-on = GitHubActions.RunsOn.Type.`ubuntu-20.04`
         with steps = Some SetupSteps
       }
 
