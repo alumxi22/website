@@ -24,15 +24,15 @@ In addition to the TEP values of friendship, chivalry and service, Xi chapter an
 
 | Members        | Position              |
 | -------------- | --------------------- |
-| Ian Collier    | President             |
-| Sydney Gibson  | Vice President        |
-| Fisher Jepsen  | Treasurer             |
+| Julien Beasley | President             |
+| Jenn Steele    | Treasurer             |
 | Shervin Fatehi | Secretary             |
-| Niko Matsakis  | Fundraising Chair     |
-| Nick Matsakis  | Records Manager       |
-| Dan Taub       | Undergraduate liaison |
-| Del Merritt    | Director              |
-| Andrew Sudbury | Director              |
+| Eric Henry     | Undergrad Liaison     |
+| Carl Gruez     | Chief Environmental Officer |
+| Sarah Hoffman  | Events/Comms          |
+| Jabari King    | Records Manager       |
+| Lifto Low      | Fundraising Chair     |
+| Andrew Sudbury | Bursar                |
 
 To reach the executive board:
 
