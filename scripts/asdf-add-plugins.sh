@@ -3,12 +3,11 @@
 cd "$(dirname "${BASH_SOURCE[0]}")"/..
 set -euxo pipefail
 
-asdf plugin-add hugo https://github.com/beardix/asdf-hugo.git
+asdf plugin add hugo https://github.com/beardix/asdf-hugo.git
 
 # https://github.com/asdf-vm/asdf-nodejs#install
-asdf plugin-add nodejs
-
 OTHER_PACKAGES=(
+  "nodejs"
   "yarn"
   "dhall"
   "shellcheck"
@@ -18,5 +17,5 @@ OTHER_PACKAGES=(
 )
 
 for package in "${OTHER_PACKAGES[@]}"; do
-  asdf plugin-add "${package}"
+  asdf plugin add "${package}"
 done
