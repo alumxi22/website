@@ -22,17 +22,17 @@ In addition to the TEP values of friendship, chivalry and service, Xi chapter an
 
 # Executive Board
 
-| Members        | Position              |
-| -------------- | --------------------- |
-| Julien Beasley | President             |
-| Jenn Steele    | Treasurer             |
-| Shervin Fatehi | Secretary             |
-| Eric Henry     | Undergrad Liaison     |
+| Members        | Position                    |
+| -------------- | --------------------------- |
+| Julien Beasley | President                   |
+| Jenn Steele    | Treasurer                   |
+| Shervin Fatehi | Secretary                   |
+| Eric Henry     | Undergrad Liaison           |
 | Carl Gruez     | Chief Environmental Officer |
-| Sarah Hoffman  | Events/Comms          |
-| Jabari King    | Records Manager       |
-| Lifto Low      | Fundraising Chair     |
-| Andrew Sudbury | Bursar                |
+| Sarah Hoffman  | Events/Comms                |
+| Jabari King    | Records Manager             |
+| Lifto Low      | Fundraising Chair           |
+| Andrew Sudbury | Bursar                      |
 
 To reach the executive board:
 
