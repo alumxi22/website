@@ -58,11 +58,11 @@ Checks should be made out to “Alumni Association of tEp Inc.” and mailed to:
 
 ```
 ALUMNI ASSOCIATION OF TEP INC.
-2093 PHILADELPHIA PIKE #2253
-CLAYMONT, DE 19703
+809 OLIVE WAY #1802
+SEATTLE, WA 98101
 ```
 
-AlumXi’s mailing address changed to the address above in February, 2020.
+AlumXi’s mailing address changed to the address above in September 2026.
 
 ### Donation by PayPal
 
